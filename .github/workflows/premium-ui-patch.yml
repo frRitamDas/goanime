@@ -182,3 +182,5 @@ button,
           git diff --cached --quiet && echo "No changes to commit." && exit 0
           git commit -m "Improve responsive liquid navbar and UI [ui-patch]"
           git push
+
+# Targeted patch: preserve the existing 4K+ line application.
